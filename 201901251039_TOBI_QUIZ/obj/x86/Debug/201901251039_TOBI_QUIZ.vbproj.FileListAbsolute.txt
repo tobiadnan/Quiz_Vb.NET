@@ -1,0 +1,22 @@
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_QUIZ\bin\Debug\201901251039_TOBI_QUIZ.exe.config
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_QUIZ\bin\Debug\201901251039_TOBI_QUIZ.exe
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_QUIZ\bin\Debug\201901251039_TOBI_QUIZ.pdb
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_QUIZ\bin\Debug\201901251039_TOBI_QUIZ.xml
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_QUIZ\obj\x86\Debug\_201901251039_TOBI_QUIZ.Form_StartUp.resources
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_QUIZ\obj\x86\Debug\_201901251039_TOBI_QUIZ.Resources.resources
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_QUIZ\obj\x86\Debug\201901251039_TOBI_QUIZ.vbproj.GenerateResource.Cache
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_QUIZ\obj\x86\Debug\201901251039_TOBI_QUIZ.exe
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_QUIZ\obj\x86\Debug\201901251039_TOBI_QUIZ.xml
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_QUIZ\obj\x86\Debug\201901251039_TOBI_QUIZ.pdb
+C:\Users\asus\AppData\Local\Temporary Projects\201901251039_TOBI_QUIZ\obj\x86\Debug\_201901251039_TOBI_QUIZ.Form_Anggota.resources
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_QUIZ\201901251039_TOBI_QUIZ\bin\Debug\201901251039_TOBI_QUIZ.exe.config
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_QUIZ\201901251039_TOBI_QUIZ\obj\x86\Debug\201901251039_TOBI_QUIZ.exe
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_QUIZ\201901251039_TOBI_QUIZ\obj\x86\Debug\201901251039_TOBI_QUIZ.xml
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_QUIZ\201901251039_TOBI_QUIZ\obj\x86\Debug\201901251039_TOBI_QUIZ.pdb
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_QUIZ\201901251039_TOBI_QUIZ\bin\Debug\201901251039_TOBI_QUIZ.exe
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_QUIZ\201901251039_TOBI_QUIZ\bin\Debug\201901251039_TOBI_QUIZ.pdb
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_QUIZ\201901251039_TOBI_QUIZ\bin\Debug\201901251039_TOBI_QUIZ.xml
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_QUIZ\201901251039_TOBI_QUIZ\obj\x86\Debug\_201901251039_TOBI_QUIZ.Form_Anggota.resources
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_QUIZ\201901251039_TOBI_QUIZ\obj\x86\Debug\_201901251039_TOBI_QUIZ.Form_StartUp.resources
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_QUIZ\201901251039_TOBI_QUIZ\obj\x86\Debug\_201901251039_TOBI_QUIZ.Resources.resources
+C:\Users\asus\Documents\Visual Studio 2010\Projects\201901251039_TOBI_QUIZ\201901251039_TOBI_QUIZ\obj\x86\Debug\201901251039_TOBI_QUIZ.vbproj.GenerateResource.Cache
